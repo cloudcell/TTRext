@@ -1,19 +1,10 @@
 Package: TTRext
-Title: TTR extensions
-Version: 0.0.1.0001
-Authors@R: person("cloudcell", "_", email = "ef256aff@opayq.com", role = c("aut", "cre"))
-Description: an extended set of technical indicators (complements the TTR package)
-Depends:
-License: GPL-3
-LazyData: true
-Copyright: (c) 2016
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2016-11-19
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
 RoxygenNote: 5.0.1
-Author: cloudcell _ [aut, cre]
-Maintainer: cloudcell _ <ef256aff@opayq.com>
-Built: R 3.3.1; ; 2016-11-19 17:58:03 UTC; windows
-RemoteType: local
-RemoteUrl: e:\devt\aa_my_github\TTRext
-RemoteSha: NA
-RemoteBranch: master
-RemoteUsername: cloudcell
-RemoteRepo: TTRext
